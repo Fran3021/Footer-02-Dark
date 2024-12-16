@@ -1,0 +1,11 @@
+//botones
+@mixin boton{
+    text-decoration: none;
+    font-weight: 500;
+    color: black;
+    display: inline-block;
+    background-color: $verde;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-size: 14px;
+}
